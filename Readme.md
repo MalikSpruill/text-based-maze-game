@@ -6,10 +6,10 @@ This file serves as the README for the original artifact: a single-file, termina
 
 The game is a text-based interactive maze adventure that runs entirely in the terminal. Players navigate through a series of rooms and scenarios using simple text commands, solving challenges and making decisions that affect the outcome. The design emphasizes problem-solving, creativity, and the application of foundational programming concepts.
 
-Capstone Enhancements (Enhancements are independent of one another, representing improvements variably):
-Enhancement One: Software-Engineering and Design - [Here](https://github.com/MalikSpruill/typescript-transpiled-maze-game)
-Enhancement Two: Algorithms and Data Structures - [Here](https://github.com/MalikSpruill/algorithms-text-based-maze-game)
-Enhancement One: Databases - [Here](https://github.com/MalikSpruill/saturn-runner-maze-game)
+_Capstone Enhancements (Enhancements are independent of one another, representing improvements variably):_
+- **Enhancement One: Software-Engineering and Design** - [Here](https://github.com/MalikSpruill/typescript-transpiled-maze-game)
+- **Enhancement Two: Algorithms and Data Structures** - [Here](https://github.com/MalikSpruill/algorithms-text-based-maze-game)
+- **Enhancement One: Databases** - [Here](https://github.com/MalikSpruill/saturn-runner-maze-game)
 
 ## Features
 
